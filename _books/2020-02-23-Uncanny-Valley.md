@@ -1,12 +1,11 @@
 ---
-layout: post
+layout: book
 title:  "Uncanny Valley - Anna Wiener"
 date:   2020-02-23
-categories: books
-comments: false
+stars: 5
 ---
 
-### **5/5**.
+### **{{page.stars}}/5**.
 
 <!--more-->
 

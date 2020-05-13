@@ -4,17 +4,16 @@ title: About
 permalink: /about/
 ---
 
-My name is Quinn (梁青昆)
+My name is Quinn (梁青昆).
 
-Mixed non-binary asian-american tongzhi (同志), via chinese-malaysian family
+I'm a mixed non-binary tongzhi (同志), via chinese-malaysian family.
+I think often of masculinity/femininity, queerness, "home", relationships, and boundaries.
 
-Thinks often of masculinity/femininity, queerness, "home", relationships, boundaries, and balance
+I like to make [music][music] / take [photos][photos] /
+write [poems][poems] & [essays](essays) / make
+[things on the internet][things].
 
-Makes [music][music] / takes [photos][photos] /
-writes [poems][poems] & [essays](essays) / makes
-[things on the internet][things]
-
-Likes being an introvert, and a virgo, and can usually be found in Oakland, CA.
+I love being an introvert, and a virgo, and can usually be found in Oakland, CA.
 
 [music]: https://quinnleong.bandcamp.com
 [photos]: https://vsco.co/qleong
