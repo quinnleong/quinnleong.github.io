@@ -29,5 +29,5 @@ Coming soon 🤞🏼
 [covers]: https://quinnleong.bandcamp.com/album/covers
 [vsco]: https://vsco.co/qleong/images
 [slantd]: assets/writing/slantd.pdf
-[walnut-st]: https://walnut-street.bandcamp.com
+[walnut-st]: https://walnutstreet.bandcamp.com
 [gesture]: https://issuu.com/quinnleong/docs/gesture_2015.docx
