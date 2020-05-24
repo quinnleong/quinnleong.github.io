@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Books
-permalink: /books/
+title: Reading
+permalink: /reading/
 ---
 {% for book in site.books %}
-  - [{{book.title}}]({{site.url}}{{site.baseurl}}{{book.url}}) - {{book.stars}}/5
+  - [{{book.title}}]({{site.url}}{{book.url}}) by {{book.author}} –– {% for num in (1..book.stars) %}★{% endfor %} –– {{book.date | date: "%-d %b %Y"}}
 {% endfor %}

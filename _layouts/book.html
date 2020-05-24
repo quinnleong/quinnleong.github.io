@@ -7,8 +7,9 @@
   	{% include nav.html %}
 		<div id="content-left">
       <div id="post">
-        <h2>{{ page.title }}</h2>
-        <i>posted on {{ page.date | date: "%-d %b %Y" }}</i>
+        <h2 class="title">{{ page.title }} by {{ page.author }}</h2>
+        <i>{{ page.date | date: "%-d %b %Y" }}</i>
+        <p>{% for num in (1..page.stars) %}★{% endfor %}</p>
         {{ content }}
   		</div>
     </div>

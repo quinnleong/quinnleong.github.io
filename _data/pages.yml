@@ -1,13 +1,13 @@
 pages:
 
-- title: Books
-  url: books
+- title: Reading
+  url: /reading/
 
 - title: Writing
-  url: writing
+  url: /writing/
 
 - title: About
-  url: about
+  url: /about/
 
 - title: Projects
-  url: projects
+  url: /projects/
