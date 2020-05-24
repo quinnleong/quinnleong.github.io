@@ -1,6 +1,5 @@
 <div id="nav">
-  <a href="{{site.url}}{{site.baseurl}}/books">Books</a> ·
-  <a href="{{site.url}}{{site.baseurl}}/writing">Writing</a> ·
-  <a href="{{site.url}}{{site.baseurl}}/about/">About</a> ·
-  <a href="{{site.url}}{{site.baseurl}}/projects/">Projects</a>
+  {% for item in site.data.pages.pages %}
+     <a href="{{site.url}}{{site.baseurl}}/{{ item.url }}">{{ item.title }}</a>{% if item.url != 'projects' %} ·{% endif %}
+  {% endfor %}
 </div>

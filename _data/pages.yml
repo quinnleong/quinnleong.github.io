@@ -1,0 +1,13 @@
+pages:
+
+- title: Books
+  url: books
+
+- title: Writing
+  url: writing
+
+- title: About
+  url: about
+
+- title: Projects
+  url: projects
