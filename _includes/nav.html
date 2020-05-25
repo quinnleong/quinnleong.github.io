@@ -1,6 +1,11 @@
 <div id="nav">
+  {% assign year_page_url_slice = page.url | slice: 1, 2 %}
   {% for item in site.data.pages.pages %}
-     <a class="{% if item.url == page.url %}active{% endif %}" href="{{site.url}}{{ item.url }}">{{ item.title }}</a>
+     <a
+       class="{% if item.url == page.url or page.url contains item.url or year_page_url_slice == '20' and item.url == '/writing/' %}active{% endif %}"
+       href="{{site.url}}{{ item.url }}">
+       {{ item.title }}
+     </a>
      {% if item.url != '/projects/' %} ·{% endif %}
   {% endfor %}
 </div>
