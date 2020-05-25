@@ -152,3 +152,13 @@ img {
   font-size: 14px;
   padding-left: 14px;
 }
+
+
+.arrow {
+  border-bottom: 0;
+  color: inherit;
+}
+.arrow:hover {
+  border-bottom: 0;
+  color: #FFD400;
+}
