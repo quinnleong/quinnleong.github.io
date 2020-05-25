@@ -109,12 +109,13 @@ img {
 .title {
   color: #4ECDC4;
   font-size: 20px;
-  font-weight: 100;
+  font-weight: 300;
 	margin: 1.5rem 0;
 }
 @media screen and (min-width: 500px) {
   .title {
     font-size: 40px;
+    font-weight: 100;
   }
 }
 .title-divider {
