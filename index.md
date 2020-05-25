@@ -1,16 +1,11 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: default
+layout: index
 title:
+subtitle-part-one: Quinn Leong
+subtitle-part-two: 梁青昆
+divider: /
+tagline: software engineer & artist
 ---
-
-<div class="title" id='landing-title'>
-  <span class='title-inverted'>Quinn Leong</span>
-  <span class='title-divider'>/</span>
-  <span class='title-inverted'>梁青昆</span>, software engineer & artist
-</div>
 
 ![](assets/images/vsco5d86910a07321.jpg)
 
