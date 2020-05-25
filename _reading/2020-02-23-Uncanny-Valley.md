@@ -1,5 +1,5 @@
 ---
-layout: book
+layout: reading
 title:  "Uncanny Valley"
 author: "Anna Wiener"
 date:   2020-02-23

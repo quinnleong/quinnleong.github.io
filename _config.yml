@@ -23,5 +23,5 @@ exclude:
 excerpt_separator: <!--more-->
 
 collections:
-  books:
+  reading:
     output: true
