@@ -94,6 +94,10 @@ ul {
 	padding: 0;
 }
 
+li {
+  margin-bottom: 0.5rem;
+}
+
 
 img {
   border-radius: 2px;
