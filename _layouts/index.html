@@ -1,19 +1,10 @@
-<!DOCTYPE html>
-<html lang="{{site.language}}">
-  {% include head.html %}
-  <body>
-	<div id="main">
-		{% include logo.html %}
-		{% include nav.html %}
-		<div id="content-left">
-      <div class="title" id='landing-title'>
-        <span class='title-inverted'>{{ page.subtitle-part-one }}</span>
-        <span class='title-divider'>{{ page.divider }}</span>
-        <span class='title-inverted'>{{ page.subtitle-part-two }}</span>, {{ page.tagline }}
-      </div>
-      {{content}}
-		</div>
-		{% include footer.html %}
-	</div>
-    </body>
-</html>
+---
+layout: default
+---
+
+<div class="title" id='landing-title'>
+  <span class='title-inverted'>{{ page.subtitle-part-one }}</span>
+  <span class='title-divider'>{{ page.divider }}</span>
+  <span class='title-inverted'>{{ page.subtitle-part-two }}</span>, {{ page.tagline }}
+</div>
+{{content}}
