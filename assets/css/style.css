@@ -42,7 +42,7 @@ body {
 }
 #logo a {
 	border-bottom: none;
-	color: #1A535C;
+  color: #1A535C;
 }
 #nav {
 	margin-bottom: 1.5rem;
@@ -162,4 +162,14 @@ img {
 .arrow:hover {
   border-bottom: 0;
   color: #FFD400;
+}
+
+
+body#konami {
+  background-color: black;
+  color: #96b7bf;
+}
+
+body#konami .title-inverted, body#konami #logo a {
+  color: #96b7bf;
 }
