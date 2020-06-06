@@ -153,6 +153,12 @@ img {
 }
 
 
+.about-img {
+  /* margin-top: 3vh; */
+  width: 10vw;
+}
+
+
 .annotation {
   font-size: 14px;
   padding-left: 14px;

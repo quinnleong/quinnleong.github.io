@@ -7,7 +7,7 @@ divider: /
 tagline: software engineer & artist
 ---
 
-![](assets/images/vsco5d86910a07321.jpg)
+![](assets/images/me.png){:.about-img}
 
 Send a missive: [linkedin][linkedin] / [email][email] – dim sum invitations especially welcome.
 
