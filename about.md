@@ -31,5 +31,5 @@ I love being an introvert, and a virgo, and can usually be found in Oakland, CA.
 [music]: https://quinnleong.bandcamp.com
 [photos]: https://vsco.co/qleong
 [poems]: https://issuu.com/quinnleong/docs/gesture_2015.docx
-[essays]: http://qleong.com/assets/slantd.pdf
+[essays]: http://qleong.com/assets/writing/slantd.pdf
 [things]: http://qleong.com/2018-review/
