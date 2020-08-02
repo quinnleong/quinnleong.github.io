@@ -144,11 +144,11 @@ img {
 
 .small-img {
   border-radius: 2px;
-  width: 50vw;
+  width: 30vw;
 }
 @media screen and (min-width: 500px) {
   .small-img {
-    width: 24vw;
+    width: 14vw;
   }
 }
 

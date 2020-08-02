@@ -1,6 +1,6 @@
 ---
 layout: reading
-title:  "Digital Minimalism: Choosing a Focused Life in a Noisy World"
+title:  "Digital Minimalism"
 author: "Cal Newport"
 date:   2020-07-30
 stars:  2
