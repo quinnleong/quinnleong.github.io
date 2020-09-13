@@ -21,14 +21,15 @@ adaptability, agility, and collaboration.
 
 In art & life, I think often of masculinity/femininity, queerness, "home", cultural legacies & practices, relationships, and boundaries.
 
-I like to make [music][music] / take [photos][photos] /
+I like to [make][makzai-music] [music][ql-music] / take [photos][photos] /
 write [poems][poems] & [essays][essays] / make
 [things on the internet][things].
 
 I love being an introvert, and a virgo, and can usually be found in Oakland, CA.
 
 [checkr]: https://checkr.com/
-[music]: https://quinnleong.bandcamp.com
+[makzai-music]: https://makzai.bandcamp.com
+[ql-music]: https://quinnleong.bandcamp.com
 [photos]: https://vsco.co/qleong
 [poems]: https://issuu.com/quinnleong/docs/gesture_2015.docx
 [essays]: http://qleong.com/assets/writing/slantd.pdf
