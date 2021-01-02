@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Initial rodinal experiments / quarantine photography / learning to scan"
+title:  "Initial Rodinal experiments / quarantine photography / learning to scan"
 date:   2021-01-02
 ---
 
 The pandemic has been a good opportunity to continue my home experiments with developing B&W film
-with rodinal. It's great being able to easily and immediately develop a single roll of film the same
+with Rodinal. It's great being able to easily and immediately develop a single roll of film the same
 night that I finish shooting it. Rodinal also has a long shelf-life, so it's great for my slow
 shooting during the pandemic.
 
@@ -20,7 +20,7 @@ place, even after six-plus months of walking the same path.
 I've also been learning my scanner in this time. With that, I am able to do the full process in-house,
 so to speak, from shooting the film, to developing it, to scanning it in to my computer, to doing any
 post-processing. I may eventually transition to VueScan, since it seems to offer better control than
-the software that comes bundled with the Epson scanner, but for my currently skills, the Epson software
+the software that comes bundled with the Epson scanner, but for my current skills, the Epson software
 is getting the job done.
 
 ## Stand Development
@@ -34,13 +34,15 @@ at the half-hour mark is plenty to prevent any edge effects or haloing, at least
 I was doing every fifteen minutes, but from what I've read, less agitation helps control the grain, so I'm
 happy with just the one mid-point agitation. However, the negatives have turned out a bit flatter than I'd like, so I'm going
 to switch over to traditional development for the next few rolls at least, and see if the contrast is more to my taste.
+I have a feeling that there's just an inevitable trade-off between grain tightness and contrast with Rodinal,
+but I want to play it out.
 
-There are a lot of strong opinions about using (or rather, NOT using) rodinal with HP5 film or for pushing,
+There are a lot of strong opinions about using (or rather, NOT using) Rodinal with HP5 film or for pushing,
 but from the examples I see on filmdev.org, I quite like the combination, even for pushed HP5! Right now I have two rolls
 of HP5 going, one at box speed in my Canonet QL-17 GIII, and the other at 1600 in my Ricoh 500GX.
 The Ricoh is currently untested, so this is also a test roll for that camera (I can tell the shutter is operating
 correctly, so am mostly unsure about the aperture control and any light leaks – we'll see!). I plan to develop
-both of those at either the standard 1:25 or 1:50 and will go from there.
+both of those at either the standard 1:25 or 1:50 and go from there.
 
 Anyway, without further ado, here are some example frames from the stand-developed rolls. These are edited slightly
 in post.
@@ -48,27 +50,27 @@ in post.
 ## 15-Minute Agitation Cycles
 
 These first three are from the stand development where I agitated every fiften minutes. They're a bit too
-grainy and gritty for my taste, so I would call these over-agitated.
+grainy and gritty for my taste, especially once I increased the contrast to my taste, so I would call these over-agitated.
 
 ![](/assets/images/film/rodinal_comparisons_1.jpg){:.film-img}
 ![](/assets/images/film/rodinal_comparisons_2.jpg){:.film-img}
 ![](/assets/images/film/rodinal_comparisons_3.jpg){:.film-img}
 
-## 30-Minute Agitation Cycles
+## 30-Minute Agitation Cycle
 
 These next three are from the batch where I agitated only a couple of times at the half-hour mark, and the grain looks
-a lot smoother to me. This is definitely a good style for my tastes, so I'll be curious to see if the traditional
+a lot smoother to me. This is definitely a good style for my preferences, so I'll be curious to see if the traditional
 development gives a result I like as much.
 
 ![](/assets/images/film/rodinal_comparisons_4.jpg){:.film-img}
 ![](/assets/images/film/rodinal_comparisons_5.jpg){:.film-img}
 ![](/assets/images/film/rodinal_comparisons_6.jpg){:.film-img}
 
-I honestly still like the one Xtol batch I did better than any of the results I've gotten from rodinal so far,
+I honestly still like the one Xtol batch I did better than any of the results I've gotten from Rodinal so far,
 but Xtol is more expensive and has a much shorter shelf-life. It also requires a lot more storage space since
-it's pre-mixed into a huge batch. So for now, I'm sticking with rodinal and seeing how tightly I can dial in
-a style I like a lot. I actually do have some Xtol that's not technically expired, so I might try a mixture next.
-I've seen a recipe that's 1 part Xtol to 4 parts water, plus the usual amount of Rodinal, so I'll probably give
-that a go. I also want to try slightly cooler temps, as I've seen multiple people mention that helps control grain
-too. I've been without a thermometer so far, so my temperature control has been pretty bad and I think skewed too
-hot thus far. In other words, lots of experimenting yet to come!
+it's pre-mixed into a huge batch. So for now, I'm sticking with Rodinal and seeing how tightly I can dial in
+a style I like a lot. I actually do have some Xtol that's technically expired, so I might try a mixture next
+and just see what happens I've seen a recipe that's 1 part Xtol to 4 parts water, plus the usual amount of Rodinal,
+so I'll probably give that a go. I also want to try slightly cooler temps, as I've seen multiple people mention
+that helps control grain too. I've been without a thermometer so far, so my temperature control has been pretty
+bad and I think skewed too hot thus far. In other words, lots of experimenting yet to come!
