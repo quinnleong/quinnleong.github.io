@@ -25,3 +25,5 @@ excerpt_separator: <!--more-->
 collections:
   reading:
     output: true
+  film:
+    output: true
