@@ -5,8 +5,7 @@
      <a
        class="{% if item.url == page.url or page.url contains item.url or year_page_url_slice == '20' and item.url == '/writing/' %}active{% endif %}"
        href="{{site.url}}{{ item.url }}">
-       {{ item.title }}
-     </a>
+       {{ item.title }}</a>
      {% if forloop.index != page_count %} ·{% endif %}
   {% endfor %}
 </div>
