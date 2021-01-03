@@ -38,19 +38,24 @@ I have a feeling that there's just an inevitable trade-off between grain tightne
 but I want to play it out.
 
 There are a lot of strong opinions about using (or rather, NOT using) Rodinal with HP5 film or for pushing,
-but from the examples I see on filmdev.org, I quite like the combination, even for pushed HP5! Right now I have two rolls
+but from the examples I see on [filmdev.org](https://filmdev.org/recipe/finder/?find=hp5+in+rodinal),
+I quite like the combination, even for pushed HP5! Right now I have two rolls
 of HP5 going, one at box speed in my Canonet QL-17 GIII, and the other at 1600 in my Ricoh 500GX.
 The Ricoh is currently untested, so this is also a test roll for that camera (I can tell the shutter is operating
 correctly, so am mostly unsure about the aperture control and any light leaks – we'll see!). I plan to develop
 both of those at either the standard 1:25 or 1:50 and go from there.
 
-Anyway, without further ado, here are some example frames from the stand-developed rolls. These are edited slightly
-in post.
+Anyway, without further ado, here are some example frames from the stand-developed rolls. These are unedited, straight from scanner.
+
+A big caveat: these are difficult to compare directly, because the first roll is Kentmere 100, and the second is Kentmere 400. However,
+the fact that the 400 looks about the same or even less grainy to me (depending on which shot), despite being a higher speed film, suggests that the grain
+tightness was in fact improved by the reduced agitation. Once I get a thermometer and can control the other variables better,
+I might do another test that's more rigorous.
 
 ## 15-Minute Agitation Cycles
 
 These first three are from the stand development where I agitated every fiften minutes. They're a bit too
-grainy and gritty for my taste, especially once I increased the contrast to my taste, so I would call these over-agitated.
+grainy and gritty for my taste, so I would call these over-agitated.
 
 ![](/assets/images/film/rodinal_comparisons_1.jpg){:.film-img}
 ![](/assets/images/film/rodinal_comparisons_2.jpg){:.film-img}
@@ -59,8 +64,8 @@ grainy and gritty for my taste, especially once I increased the contrast to my t
 ## 30-Minute Agitation Cycle
 
 These next three are from the batch where I agitated only a couple of times at the half-hour mark, and the grain looks
-a lot smoother to me. This is definitely a good style for my preferences, so I'll be curious to see if the traditional
-development gives a result I like as much.
+either similar (despite the higher speed) or smoother to me, especially on 1 and 3. This is definitely a good style
+for my preferences, so I'll be curious to see if the traditional development gives a result I like as much.
 
 ![](/assets/images/film/rodinal_comparisons_4.jpg){:.film-img}
 ![](/assets/images/film/rodinal_comparisons_5.jpg){:.film-img}
