@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: film
 title:  "Initial Rodinal experiments / quarantine photography / learning to scan"
 date:   2021-01-02
 ---
