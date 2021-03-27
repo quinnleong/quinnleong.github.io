@@ -22,6 +22,8 @@ write [essays][essays] / make
 
 I love being an introvert, and a virgo, and can usually be found in Oakland, CA.
 
+[Email me!](mailto:leongchengkwan@gmail.com)
+
 [makzai-music]: https://makzai.bandcamp.com
 [ql-music]: https://quinnleong.bandcamp.com
 [photos]: https://vsco.co/qleong
