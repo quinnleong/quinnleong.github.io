@@ -48,9 +48,9 @@ to his own bravado in viewing himself as a soldier of war.
 
 While reading, I can't escape the fact that his gender has become his entire world, his entire frame. He says, "My happiness, my pleasure, my desire,
 my work, and my hobbies are connected to my maleness and my masculinity." It gives me pause and makes me question whether one can ethically participate in
-gendered rituals and norms. Is doing so not upholding a system of gender that will always marginalize and oppress some people to the benefit of others? I
-can't help but notice in his description of having an easy and casual camaraderie with men in public that it is white men he describes as calling him "man" or "bro",
-chatting him up in a hotel parking lot or a bar and ignoring both of their wives. I know for certain that the older white men he has these encounters with
+gendered rituals and norms. Is doing so not upholding a system of gender that will always marginalize and oppress some people to the benefit of others?
+I can't help but notice, in his description of the easy and casual camaraderie he now has with men in public, that it's white men who call him "man" or "bro",
+who chat him up in a hotel parking lot or a bar while they both ignore their wives. I know for certain that the older white men he has these encounters with
 don't do this with me. Even if it's not made explicit, these interactions are fundamentally about sameness – about whiteness, about
 heterosexuality, about patriarchy.
 
