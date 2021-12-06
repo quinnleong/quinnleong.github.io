@@ -1,7 +1,7 @@
 ---
 layout: index
 title:
-subtitle-part-one: Q. Leong
+subtitle-part-one: Q.L.
 subtitle-part-two: 梁青昆
 divider: /
 tagline: software engineer & artist
