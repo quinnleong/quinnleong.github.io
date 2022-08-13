@@ -27,3 +27,5 @@ collections:
     output: true
   viewing:
     output: true
+  film:
+    output: true
