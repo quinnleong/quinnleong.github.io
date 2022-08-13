@@ -17,7 +17,7 @@ places, from Knoxville, Tennessee to Singapore and many in between.
 In art & life, I think often of masculinity/femininity, queerness, "home", cultural legacies & practices, relationships, and boundaries.
 
 I like to [make][makzai-music] [music][ql-music] / take [photos][photos] /
-write [essays][essays] / make
+write [essays][essays] & poems / make
 [things on the internet][things].
 
 I love being an introvert, and a virgo, and can usually be found in Oakland, CA.
