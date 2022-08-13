@@ -8,7 +8,7 @@ date:   2020-11-06
 stars:  5
 ---
 
-![](https://upload.wikimedia.org/wikipedia/en/a/ae/Certain_Women_film_poster.jpg){:.small-img}
+![](/assets/images/viewing/certain-women.jpeg){:.small-img}
 
 <div class="film-description">
 This film depicts three vignettes of women living in Montana, centered on the town of Livingston.

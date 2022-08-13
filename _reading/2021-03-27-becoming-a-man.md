@@ -6,7 +6,7 @@ date:   2021-03-27
 stars:  2
 ---
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564771134l/50091840._SX318_SY475_.jpg){:.small-img}
+![](/assets/images/reading/becoming-a-man.jpg){:.small-img}
 
 1.5 stars, really. This book was... a journey.
 

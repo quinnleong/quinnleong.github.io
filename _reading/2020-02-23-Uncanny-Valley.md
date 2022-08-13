@@ -6,7 +6,7 @@ date:   2020-02-23
 stars:  5
 ---
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS5WTshSxyXJXThQpxLJCzxW-umRBVMO41iqruaFvQN_HsWVaHS){:.small-img}
+![](/assets/images/reading/uncanny-valley.jpeg){:.small-img}
 
 This is a spot on, incisive memoir of diving into the tech industry in SF with no
 expectations, nor context to anticipate the absurdity awaiting.

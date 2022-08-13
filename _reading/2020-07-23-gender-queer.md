@@ -6,7 +6,7 @@ date:   2020-07-25
 stars:  4
 ---
 
-![](https://prodimage.images-bn.com/pimages/9781549304002_p0_v4_s550x406.jpg){:.small-img}
+![](/assets/images/reading/gender-queer.jpeg){:.small-img}
 
 This was a really sweet graphic novel. It covers a lot of the author's (e/em/eir pronouns) experiences coming into
 eir identities, showing both a deepening in eir own relationship to eirself and the ways that those identities

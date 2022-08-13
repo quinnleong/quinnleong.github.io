@@ -6,7 +6,7 @@ date:   2021-02-12
 stars:  4
 ---
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500809335l/32895535._SX318_.jpg){:.small-img}
+![](/assets/images/reading/why-buddhism.jpg){:.small-img}
 
 Interesting, annoying, thought-provoking. This author's writing persona was pretty obnoxious to me,
 but his insights and research are intriguing. Very cool to think about alongside Internal Family Systems

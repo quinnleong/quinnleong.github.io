@@ -8,7 +8,7 @@ date:   2020-02-18
 stars:  5
 ---
 
-![](https://upload.wikimedia.org/wikipedia/en/a/ae/Certain_Women_film_poster.jpg){:.small-img}
+![](/assets/images/viewing/portrait.jpg){:.small-img}
 
 <div class="film-description">
 This film tells the stories of a few women in France and how their lives intertwine during a

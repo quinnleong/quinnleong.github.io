@@ -6,7 +6,7 @@ date:   2019-10-21
 stars:  4
 ---
 
-![](https://m.media-amazon.com/images/I/419UtKD1h1L.jpg){:.small-img}
+![](/assets/images/reading/year-without-a-name.jpeg){:.small-img}
 
 I have a lot of mixed feelings about this one. Ultimately, it's a good read
 and I will probably read it again at some point. But I had some issues with it too.

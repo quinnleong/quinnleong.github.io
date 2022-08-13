@@ -6,7 +6,7 @@ date:   2020-07-30
 stars:  2
 ---
 
-![](https://m.media-amazon.com/images/I/51JsmX0uryL._SY346_.jpg){:.small-img}
+![](/assets/images/reading/digital-minimalism.jpg){:.small-img}
 
 So, first a confession, which is that I haven't finished this book. But I'm writing about it
 now because, at this point, I doubt I will finish it.

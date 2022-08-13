@@ -6,7 +6,7 @@ date:   2019-10-21
 stars:  5
 ---
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544069605l/43126457.jpg){:.small-img}
+![](/assets/images/reading/trick-mirror.jpeg){:.small-img}
 
 Inject Jia Tolentino's thoughts straight into my veins in real-time.
 

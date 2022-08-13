@@ -6,7 +6,7 @@ date:   2020-08-10
 stars:  2
 ---
 
-![](https://m.media-amazon.com/images/I/41DkXZ6kg4L.jpg){:.small-img}
+![](/assets/images/reading/big-friendship.jpeg){:.small-img}
 
 _Sigh_. I really, really thought I was going to love this book, 5/5, recommend it to all my friends.
 In fact, I actually DID recommend it to my best friend as a book for us to read together, after listening
