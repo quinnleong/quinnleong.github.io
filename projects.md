@@ -19,6 +19,8 @@ permalink: /projects/
   <span class="annotation">essay, <a href='https://slantd.com/issue-03'>Slant'd</a> mag, 2019</span>
 - [The Walnut Street Band EP][walnut-st]
   <span class="annotation">folk album, 2014</span>
+- [Alignment][alignment]
+  <span class="annotation">photo essay in Sine Theta Magazine, 2022</span>
 
 [2018-review]: https://qleong.com/2018-review
 [young]: https://quinnleong.bandcamp.com/album/young
@@ -27,4 +29,4 @@ permalink: /projects/
 [vsco]: https://vsco.co/qleong/images
 [slantd]: assets/writing/slantd.pdf
 [walnut-st]: https://walnutstreet.bandcamp.com
-[gesture]: https://issuu.com/quinnleong/docs/gesture_2015.docx
+[alignment]: https://sinethetamag.com

@@ -134,6 +134,16 @@ img {
   }
 }
 
+.page-title {
+  font-size: 16px;
+  margin-bottom: 0.5rem;
+}
+@media screen and (min-width: 500px) {
+  .page-title {
+    font-size: 34px;
+  }
+}
+
 
 .break {
 	background-color: #FFD400;
@@ -170,6 +180,11 @@ img {
 .annotation {
   font-size: 14px;
   padding-left: 14px;
+}
+
+
+.film-description {
+  font-style: italic;
 }
 
 
