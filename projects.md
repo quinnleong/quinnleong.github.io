@@ -23,8 +23,8 @@ permalink: /projects/
   <span class="annotation">photo essay in Sine Theta Magazine, 2022</span>
 
 [2018-review]: https://qleong.com/2018-review
-[young]: https://quinnleong.bandcamp.com/album/young
-[covers]: https://quinnleong.bandcamp.com/album/covers
+[young]: https://bit.ly/qleong-bandcamp-young
+[covers]: https://bit.ly/qleong-bandcamp-covers
 [dither-zither]: https://makzai.bandcamp.com/releases
 [vsco]: https://vsco.co/qleong/images
 [slantd]: assets/writing/slantd.pdf
