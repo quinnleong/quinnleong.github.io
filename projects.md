@@ -4,10 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-## Coding
-
-Coming soon 🤞🏼
-
 ## Art of All Kinds
 - [2018 in Review, in Text Messages][2018-review]
   <span class="annotation">media art</span>
@@ -23,6 +19,8 @@ Coming soon 🤞🏼
   <span class="annotation">folk album, 2014</span>
 - [Gesture][gesture]
   <span class="annotation">chapbook of poems, 2015</span>
+- [Alignment][alignment]
+  <span class="annotation">photo essay in Sine Theta Magazine, 2022</span>
 
 [2018-review]: https://qleong.com/2018-review
 [young]: https://quinnleong.bandcamp.com
@@ -31,3 +29,4 @@ Coming soon 🤞🏼
 [slantd]: assets/writing/slantd.pdf
 [walnut-st]: https://walnutstreet.bandcamp.com
 [gesture]: https://issuu.com/quinnleong/docs/gesture_2015.docx
+[alignment]: https://sinethetamag.com
