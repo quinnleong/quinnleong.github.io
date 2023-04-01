@@ -29,3 +29,5 @@ collections:
     output: true
   film:
     output: true
+  nespresso:
+    output: true
