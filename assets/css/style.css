@@ -177,6 +177,44 @@ img {
 }
 
 
+.coffee-img {
+  max-width: 300px;
+}
+
+@media screen and (max-width: 900px) {
+  .coffee-img {
+    max-width: 30vw;
+  }
+}
+
+.coffee-wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 20px;
+}
+
+.coffee-info {
+  padding-left: 40px;
+  width: 80%;
+}
+
+@media screen and (max-width: 700px) {
+  .coffee-info {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .coffee-info {
+    font-size: 12px;
+  }
+}
+
+.coffee-header {
+  margin: 0;
+}
+
+
 .annotation {
   font-size: 14px;
   padding-left: 14px;
