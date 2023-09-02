@@ -29,4 +29,4 @@ permalink: /projects/
 [vsco]: https://vsco.co/qleong/images
 [slantd]: assets/writing/slantd.pdf
 [walnut-st]: https://walnutstreet.bandcamp.com
-[alignment]: https://sinethetamag.com
+[alignment]: https://www.blurb.com/b/11145024-sin-23-notes
