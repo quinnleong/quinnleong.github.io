@@ -41,8 +41,9 @@ body {
 	margin-bottom: 1.5rem;
 }
 #logo a {
-	border-bottom: none;
-  color: #1A535C;
+	/* border-bottom: none; */
+  /* color: #1A535C; */
+  color: #4ECDC4;
 }
 #nav {
 	margin-bottom: 1.5rem;

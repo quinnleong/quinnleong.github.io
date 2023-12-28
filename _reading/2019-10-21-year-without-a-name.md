@@ -3,7 +3,7 @@ layout: reading
 title:  "A Year Without a Name"
 author: "Cyrus Grace Dunham"
 date:   2019-10-21
-stars:  4
+stars:  3
 ---
 
 ![](/assets/images/reading/year-without-a-name.jpeg){:.small-img}
