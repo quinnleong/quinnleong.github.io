@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<div><a class="arrow" href="/viewing/">←</a></div>
+<div id="post">
+  <h2 class="title page-title">{{ page.title }} – {{ page.director }}, {{ page.year }}</h2>
+  <i>{{ page.date | date: "%-d %b %Y" }}</i>
+  <p>{% for num in (1..page.stars) %}★{% endfor %}</p>
+  {{ content }}
+</div>

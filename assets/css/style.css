@@ -1,0 +1,248 @@
+body {
+  background-color: #FCFFFC;
+  color: #1A535C;
+  font-family: 'Work Sans', sans-serif;
+	font-size: 15px;
+  font-weight: 300;
+  margin: 10vh 10vw;
+	margin-bottom: 2vh;
+	min-height: 80vh;
+  padding: 0;
+}
+@media screen and (min-width: 500px) {
+  body {
+		font-size: 18px;
+    margin: 10vh 20vw;
+  }
+}
+@media screen and (min-width: 1000px) {
+  body {
+    margin: 10vh 24vw;
+  }
+}
+@media screen and (min-width: 1400px) {
+  body {
+    margin: 10vh 26vw;
+  }
+}
+@media screen and (min-width: 1700px) {
+  body {
+    margin: 10vh 32vw;
+  }
+}
+
+#main {
+	min-height: inherit;
+	display: flex;
+  flex-direction: column;
+}
+#logo {
+	font-size: 40px;
+	margin-bottom: 1.5rem;
+}
+#logo a {
+	/* border-bottom: none; */
+  /* color: #1A535C; */
+  color: #4ECDC4;
+}
+#nav {
+	margin-bottom: 1.5rem;
+}
+.active {
+	border-top: 1px solid #4ECDC4;
+}
+#content-left{
+	flex: 1 0 auto;
+}
+#footer {
+	margin-top: 5vh;
+	width: 100%;
+}
+#footer p {
+	font-size: 12px;
+}
+
+
+h1, h2, h3, h4 {
+	font-weight: normal;
+}
+
+p {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	line-height: 140%;
+  font-size: 16px;
+}
+
+i {
+	display: block;
+	font-style: normal;
+	font-size: 18px;
+	margin-bottom: 2.5rem;
+}
+
+a {
+	border-bottom: 1px solid #FFD400;
+  border-radius: 2px;
+  color: #FF6B6B;
+  text-decoration: none;
+}
+a:hover {
+	border-bottom: 1px solid #b99b05;
+}
+
+ul {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	list-style: none;
+	padding: 0;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+
+img {
+  border-radius: 2px;
+  max-width: 100%;
+  width: 70vw;
+}
+@media screen and (min-width: 500px) {
+  img {
+    width: 44vw;
+  }
+}
+
+
+.title {
+  color: #4ECDC4;
+  font-size: 20px;
+  font-weight: 300;
+	margin: 1.5rem 0;
+}
+@media screen and (min-width: 500px) {
+  .title {
+    font-size: 30px;
+  }
+}
+.title-divider {
+  color: #FFD400;
+}
+.title-inverted {
+  color: #1A535C;
+}
+@media screen and (min-width: 500px) {
+  #landing-title {
+    font-size: 40px;
+  }
+}
+
+.page-title {
+  font-size: 16px;
+  margin-bottom: 0.5rem;
+}
+@media screen and (min-width: 500px) {
+  .page-title {
+    font-size: 34px;
+  }
+}
+
+
+.break {
+	background-color: #FFD400;
+	height: 1px;
+	margin-bottom: 1rem;
+	width: 20%;
+}
+
+
+.small-img {
+  border-radius: 2px;
+  width: 30vw;
+}
+@media screen and (min-width: 500px) {
+  .small-img {
+    width: 14vw;
+  }
+}
+
+
+.film-img {
+  border-radius: 2px;
+  max-height: 70vh;
+  width: auto;
+}
+
+
+.about-img {
+  width: 10vw;
+}
+
+
+.coffee-img {
+  max-width: 300px;
+}
+
+@media screen and (max-width: 900px) {
+  .coffee-img {
+    max-width: 30vw;
+  }
+}
+
+.coffee-wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 20px;
+}
+
+.coffee-info {
+  padding-left: 40px;
+  width: 80%;
+}
+
+@media screen and (max-width: 700px) {
+  .coffee-info {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .coffee-info {
+    font-size: 12px;
+  }
+}
+
+.coffee-header {
+  margin: 0;
+}
+
+
+.annotation {
+  font-size: 14px;
+  padding-left: 14px;
+}
+
+
+.film-description {
+  font-style: italic;
+  font-size: 16px;
+}
+
+
+.arrow {
+  border-bottom: 0;
+  color: inherit;
+}
+.arrow:hover {
+  border-bottom: 0;
+  color: #FFD400;
+}
+
+
+body#konami {
+  background-color: black;
+  color: #96b7bf;
+}
+
+body#konami .title-inverted, body#konami #logo a {
+  color: #96b7bf;
+}

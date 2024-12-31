@@ -1,0 +1,35 @@
+title: 梁青昆
+owner: 梁青昆
+email:
+description: ""
+url: "https://qleong.com"
+language: en
+twitter_username:
+github_username:
+disqus_username:
+# Build settings
+markdown: kramdown
+theme: minima
+github: [metadata]
+
+permalink: /:year/:month/:day/:title/
+
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle
+excerpt_separator: <!--more-->
+
+collections:
+  reading:
+    output: true
+  viewing:
+    output: true
+  film:
+    output: true
+  nespresso:
+    output: true
+  coffee:
+    output: true

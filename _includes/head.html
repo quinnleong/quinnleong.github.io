@@ -1,0 +1,45 @@
+<head>
+    <title>{{site.title}}</title>
+    <meta name="robots" content="noindex"></meta>
+    <meta charset="utf-8"></meta>
+    <link href="{{site.url}}{{site.baseurl}}/assets/css/style.css" type="text/css" rel="stylesheet"></link>
+    <link rel="shortcut icon" type="image/png" href="/assets/images/favicon.ico">
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no'></meta>
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,300,400&display=swap" rel="stylesheet">
+    <meta content="{{site.description}}" name="description"></meta>
+    <meta content="{{site.owner}}" name="author"></meta>
+    <meta content="Copyright 2020 {{site.owner}}. All rights reserved." name="copyright"></meta>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
+    <script type="text/javascript">
+      var konamiSetting = localStorage.getItem('konami');
+      if (konamiSetting === 'true') { document.addEventListener('DOMContentLoaded', turnOnDarkMode); };
+
+      let cursor = 0;
+      const KONAMI_CODE = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65];
+      document.addEventListener('keydown', (e) => {
+        cursor = (e.keyCode == KONAMI_CODE[cursor]) ? cursor + 1 : 0;
+        if (cursor == KONAMI_CODE.length) {
+          konami();
+          cursor = 0;
+        }
+      });
+
+      function konami() {
+        var konamiSetting = localStorage.getItem('konami');
+        const body = document.getElementsByTagName('body')[0];
+        if (konamiSetting === 'true') {
+          body.id = '';
+          localStorage.setItem('konami', 'false');
+        } else {
+          turnOnDarkMode();
+        }
+      };
+
+      function turnOnDarkMode() {
+        console.log('konami unlocked 🤓');
+        const body = document.getElementsByTagName('body')[0];
+        body.id = 'konami';
+        localStorage.setItem('konami', 'true');
+      }
+    </script>
+</head>
