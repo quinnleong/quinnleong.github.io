@@ -27,7 +27,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # gem "github-pages", group: :jekyll_plugins
-gem 'faraday', '0.17.3'
+gem 'faraday', '2.14.1'
 
 gem 'webrick'
 
