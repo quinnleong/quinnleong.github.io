@@ -4,6 +4,7 @@ title:  "Why Buddhism is True"
 author: "Robert Wright"
 date:   2021-02-12
 stars:  4
+
 ---
 
 ![](/assets/images/reading/why-buddhism.jpg){:.small-img}

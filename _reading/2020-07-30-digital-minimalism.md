@@ -4,6 +4,7 @@ title:  "Digital Minimalism"
 author: "Cal Newport"
 date:   2020-07-30
 stars:  2
+
 ---
 
 ![](/assets/images/reading/digital-minimalism.jpg){:.small-img}

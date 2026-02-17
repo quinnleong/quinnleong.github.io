@@ -4,6 +4,7 @@ title:  "Becoming a Man"
 author: "P. Carl"
 date:   2021-03-27
 stars:  2
+
 ---
 
 ![](/assets/images/reading/becoming-a-man.jpg){:.small-img}

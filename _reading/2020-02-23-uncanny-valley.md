@@ -4,14 +4,11 @@ title:  "Uncanny Valley"
 author: "Anna Wiener"
 date:   2020-02-23
 stars:  5
+brief: "A spot on, incisive memoir of diving into the tech industry in SF with no expectations, nor context to anticipate the absurdity awaiting. Deeply comical and horrifying in equal measures."
 ---
 
 ![](/assets/images/reading/uncanny-valley.jpeg){:.small-img}
 
-This is a spot on, incisive memoir of diving into the tech industry in SF with no
-expectations, nor context to anticipate the absurdity awaiting.
-
-Deeply comical and horrifying in equal measures.
 I found the narration style very dead-pan, and I think this
 made the writing hit harder than any cerebral or verbose critique would.
 Both the comedy and the critique come from her simply describing things

@@ -4,6 +4,7 @@ title:  "The Will to Change"
 author: "bell hooks"
 date:   2022-08-01
 stars:  4
+
 ---
 
 ![](/assets/images/reading/will-to-change.jpeg){:.small-img}

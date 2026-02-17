@@ -4,6 +4,7 @@ title:  "Maybe You Should Talk to Someone"
 author: "Lori Gottlieb"
 date:   2020-10-17
 stars:  5
+
 ---
 
 ![](/assets/images/reading/maybe-you-should.jpeg){:.small-img}

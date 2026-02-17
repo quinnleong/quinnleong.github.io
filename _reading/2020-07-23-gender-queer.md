@@ -4,6 +4,7 @@ title:  "Gender Queer: A Memoir"
 author: "Maia Kobabe"
 date:   2020-07-25
 stars:  4
+
 ---
 
 ![](/assets/images/reading/gender-queer.jpeg){:.small-img}

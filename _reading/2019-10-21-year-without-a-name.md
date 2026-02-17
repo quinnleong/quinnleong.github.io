@@ -4,6 +4,7 @@ title:  "A Year Without a Name"
 author: "Cyrus Grace Dunham"
 date:   2019-10-21
 stars:  3
+brief: "Some good musings, but mostly navel gazing that I felt irritated by... Much of it just rambling streams of rumination."
 ---
 
 ![](/assets/images/reading/year-without-a-name.jpeg){:.small-img}

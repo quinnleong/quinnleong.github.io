@@ -4,6 +4,7 @@ title:  "Trick Mirror"
 author: "Jia Tolentino"
 date:   2019-10-21
 stars:  5
+
 ---
 
 ![](/assets/images/reading/trick-mirror.jpeg){:.small-img}

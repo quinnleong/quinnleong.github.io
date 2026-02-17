@@ -246,3 +246,27 @@ body#konami {
 body#konami .title-inverted, body#konami #logo a {
   color: #96b7bf;
 }
+
+.two-cols-container {
+  display: flex; /* Use flexbox for modern layouts */
+  gap: 20px; /* Adds space between columns */
+}
+
+.left-column {
+  flex: 1; /* Both columns take equal space */
+  color: #709298;
+  p {
+    margin: 16px 0;
+    line-height: 182%;
+    font-size: 14px;
+  }
+}
+
+.right-column {
+  flex: 3;
+  p > * {
+    display: inline-block;
+    margin: 3px 0;
+  }
+}
+

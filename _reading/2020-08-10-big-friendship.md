@@ -4,6 +4,7 @@ title:  "Big Friendship"
 author: "Aminatou Sow & Ann Friedman"
 date:   2020-08-10
 stars:  2
+
 ---
 
 ![](/assets/images/reading/big-friendship.jpeg){:.small-img}
