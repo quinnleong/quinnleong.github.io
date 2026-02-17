@@ -7,5 +7,7 @@ layout: default
   <h2 class="title page-title">{{ page.title }} by {{ page.author }}</h2>
   <i>{{ page.date | date: "%-d %b %Y" }}</i>
   <p>{% for num in (1..page.stars) %}★{% endfor %}</p>
+  <p class="book-brief">{{ page.brief }}</p>
+  <div class="break book-break"></div>
   {{ content }}
 </div>

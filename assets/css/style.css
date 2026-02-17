@@ -211,6 +211,14 @@ img {
   }
 }
 
+.book-break {
+  margin-bottom: 40px;
+  background-color: #1A535C;
+	height: 1px;
+	width: 30%;
+  /* border-bottom: 1px solid #FFD400; */
+}
+
 .coffee-header {
   margin: 0;
 }

@@ -4,6 +4,7 @@ title:  "The Will to Change"
 author: "bell hooks"
 date:   2022-08-01
 stars:  4
+brief: "Difficult to put into words... Extremely powerful, and at times I think somewhat flawed. And yet, life-changing all the same. hooks puts forth a vision for a love of masculinity and men that can resonantly co-exist with a firm critique and disavowal of patriarchy – a pairing which I now feel I can truly hold fast to."
 
 ---
 
